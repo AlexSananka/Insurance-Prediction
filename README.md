@@ -11,3 +11,7 @@ The model will be based on the building characteristics. The target variable, Cl
 
 1 if the building has at least a claim over the insured period.
 0 if the building doesn’t have a claim over the insured period.
+
+# Data 
+
+The data can be downloaded in the Zindi platform in this https://zindi.africa/competitions/data-science-nigeria-2019-challenge-1-insurance-prediction/data link.
